@@ -1,0 +1,19 @@
+{
+  "name": "trevor",
+  "version": "1.0.0",
+  "description": "Bamazon search 1. Created the CustomerViewer activity.",
+  "main": "bamzCustomerView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbikhram/BamazonWk2_HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbikhram/BamazonWk2_HW/issues"
+  },
+  "homepage": "https://github.com/tbikhram/BamazonWk2_HW#readme"
+}
