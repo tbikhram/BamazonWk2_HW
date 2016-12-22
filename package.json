@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/tbikhram/BamazonWk2_HW/issues"
   },
-  "homepage": "https://github.com/tbikhram/BamazonWk2_HW#readme"
+  "homepage": "https://github.com/tbikhram/BamazonWk2_HW#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "mysql": "^2.12.0",
+    "prompt": "^1.0.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
 }
